@@ -58,8 +58,10 @@ Incluye selección de coche, cronómetro, sistema de récords y música persiste
 
 ## 📊 GitHub Stats
 
-![Juanjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanjojps&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanjojps&layout=compact&theme=tokyonight)
+![Visitas](https://komarev.com/ghpvc/?username=Juanjojps&color=blueviolet&style=for-the-badge)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Juanjojps&theme=tokyo-night)](https://github.com/Juanjojps)
+
 
 ---
 
