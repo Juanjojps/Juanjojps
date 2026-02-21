@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&width=600&lines=Hola%2C+soy+Juanjo+%F0%9F%91%8B;Desarrollador+Multiplataforma;Unity+%7C+Java+%7C+Flutter+%7C+Python" alt="Typing SVG" />
 </div>
 
-
-# 👋 Hola, soy Juan Jose Pereira
-
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (2º DAM)** apasionado por construir
 cosas reales: desde aplicaciones web y móviles hasta videojuegos 3D. Me gusta resolver problemas
 técnicos complejos y llevar los proyectos hasta el final.
