@@ -64,8 +64,6 @@ Incluye selección de coche, cronómetro, sistema de récords y música persiste
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juanjojps&count_private=true&show_icons=true&theme=tokyo-night&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanjojps&layout=compact&theme=tokyo-night&hide_border=true&count_private=true)
-
 
 ---
 
