@@ -62,7 +62,7 @@ Incluye selección de coche, cronómetro, sistema de récords y música persiste
 
 ![Visitas](https://komarev.com/ghpvc/?username=Juanjojps&color=blueviolet&style=for-the-badge)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juanjojps&count_private=true&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true)](https://github.com/Juanjojps)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Juanjojps&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
