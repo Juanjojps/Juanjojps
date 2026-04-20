@@ -62,7 +62,7 @@ Incluye selección de coche, cronómetro, sistema de récords y música persiste
 
 ![Visitas](https://komarev.com/ghpvc/?username=Juanjojps&color=blueviolet&style=for-the-badge)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Juanjojps&theme=tokyo-night&hide_border=true&count_private=true)](https://github.com/Juanjojps)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juanjojps&count_private=true&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true)](https://github.com/Juanjojps)
 
 
 ---
